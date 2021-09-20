@@ -1,0 +1,2 @@
+M:\automation\DataDrivenFramework\DataDrivenFramework\obj\x64\Debug\DataDrivenFramework.csprojAssemblyReference.cache
+M:\automation\DataDrivenFramework\DataDrivenFramework\obj\x64\Debug\DataDrivenFramework.csproj.CoreCompileInputs.cache
