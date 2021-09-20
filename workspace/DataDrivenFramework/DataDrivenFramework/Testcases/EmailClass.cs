@@ -72,7 +72,7 @@ namespace DataDrivenFramework.Testcases
                 // sc.Host = "outlook.office365.com";
                 sc.Host = "smtp.office365.com";
                 sc.Port = 587;
-                sc.Credentials = new System.Net.NetworkCredential("DNair@fft.org.uk", "yjycqxhvdrxhrvzx");
+                sc.Credentials = new System.Net.NetworkCredential("usrname", "password");
                 sc.EnableSsl = true; // runtime encrypt the SMTP communications using SSL
                 sc.Send(m);
             }
